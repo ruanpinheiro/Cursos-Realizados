@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\bin\Debug\net5.0\Exercise_Exceptions.exe
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\bin\Debug\net5.0\Exercise_Exceptions.deps.json
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\bin\Debug\net5.0\Exercise_Exceptions.runtimeconfig.json
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\bin\Debug\net5.0\Exercise_Exceptions.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\bin\Debug\net5.0\Exercise_Exceptions.dll
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\bin\Debug\net5.0\ref\Exercise_Exceptions.dll
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\bin\Debug\net5.0\Exercise_Exceptions.pdb
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\net5.0\Exercise_Exceptions.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\net5.0\Exercise_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\net5.0\Exercise_Exceptions.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\net5.0\Exercise_Exceptions.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\net5.0\Exercise_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\net5.0\Exercise_Exceptions.dll
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\net5.0\ref\Exercise_Exceptions.dll
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\net5.0\Exercise_Exceptions.pdb
+C:\Users\Usuario\source\repos\Exercise_Exceptions\Exercise_Exceptions\obj\Debug\net5.0\Exercise_Exceptions.genruntimeconfig.cache

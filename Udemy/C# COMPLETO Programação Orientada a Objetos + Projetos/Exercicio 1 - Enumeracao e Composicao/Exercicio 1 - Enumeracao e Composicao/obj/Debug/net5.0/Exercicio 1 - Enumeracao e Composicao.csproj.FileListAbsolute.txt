@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\obj\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\obj\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\obj\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\obj\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\obj\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\bin\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.exe
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\bin\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.deps.json
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\bin\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.runtimeconfig.json
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\bin\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\bin\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.dll
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\bin\Debug\net5.0\ref\Exercicio 1 - Enumeracao e Composicao.dll
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\bin\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.pdb
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\obj\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.dll
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\obj\Debug\net5.0\ref\Exercicio 1 - Enumeracao e Composicao.dll
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\obj\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.pdb
+C:\Users\Usuario\source\repos\Exercicio 1 - Enumeracao e Composicao\Exercicio 1 - Enumeracao e Composicao\obj\Debug\net5.0\Exercicio 1 - Enumeracao e Composicao.genruntimeconfig.cache

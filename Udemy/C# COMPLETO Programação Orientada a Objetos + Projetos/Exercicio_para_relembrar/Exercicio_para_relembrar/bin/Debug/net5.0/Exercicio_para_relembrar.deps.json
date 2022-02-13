@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio_para_relembrar/1.0.0": {
+        "runtime": {
+          "Exercicio_para_relembrar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_para_relembrar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

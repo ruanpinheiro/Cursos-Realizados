@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\bin\Debug\net5.0\Exercicio_Metodo_Abstract.exe
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\bin\Debug\net5.0\Exercicio_Metodo_Abstract.deps.json
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\bin\Debug\net5.0\Exercicio_Metodo_Abstract.runtimeconfig.json
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\bin\Debug\net5.0\Exercicio_Metodo_Abstract.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\bin\Debug\net5.0\Exercicio_Metodo_Abstract.dll
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\bin\Debug\net5.0\ref\Exercicio_Metodo_Abstract.dll
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\bin\Debug\net5.0\Exercicio_Metodo_Abstract.pdb
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\obj\Debug\net5.0\Exercicio_Metodo_Abstract.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\obj\Debug\net5.0\Exercicio_Metodo_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\obj\Debug\net5.0\Exercicio_Metodo_Abstract.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\obj\Debug\net5.0\Exercicio_Metodo_Abstract.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\obj\Debug\net5.0\Exercicio_Metodo_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\obj\Debug\net5.0\Exercicio_Metodo_Abstract.dll
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\obj\Debug\net5.0\ref\Exercicio_Metodo_Abstract.dll
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\obj\Debug\net5.0\Exercicio_Metodo_Abstract.pdb
+C:\Users\Usuario\source\repos\Exercicio_Metodo_Abstract\Exercicio_Metodo_Abstract\obj\Debug\net5.0\Exercicio_Metodo_Abstract.genruntimeconfig.cache

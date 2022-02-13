@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\bin\Debug\net5.0\Exercicio_para_relembrar.exe
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\bin\Debug\net5.0\Exercicio_para_relembrar.deps.json
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\bin\Debug\net5.0\Exercicio_para_relembrar.runtimeconfig.json
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\bin\Debug\net5.0\Exercicio_para_relembrar.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\bin\Debug\net5.0\Exercicio_para_relembrar.dll
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\bin\Debug\net5.0\ref\Exercicio_para_relembrar.dll
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\bin\Debug\net5.0\Exercicio_para_relembrar.pdb
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\obj\Debug\net5.0\Exercicio_para_relembrar.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\obj\Debug\net5.0\Exercicio_para_relembrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\obj\Debug\net5.0\Exercicio_para_relembrar.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\obj\Debug\net5.0\Exercicio_para_relembrar.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\obj\Debug\net5.0\Exercicio_para_relembrar.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\obj\Debug\net5.0\Exercicio_para_relembrar.dll
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\obj\Debug\net5.0\ref\Exercicio_para_relembrar.dll
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\obj\Debug\net5.0\Exercicio_para_relembrar.pdb
+C:\Users\Usuario\source\repos\Exercicio_para_relembrar\Exercicio_para_relembrar\obj\Debug\net5.0\Exercicio_para_relembrar.genruntimeconfig.cache
