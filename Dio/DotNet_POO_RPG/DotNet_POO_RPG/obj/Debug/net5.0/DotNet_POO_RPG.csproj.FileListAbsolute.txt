@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\bin\Debug\net5.0\DotNet_POO_RPG.exe
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\bin\Debug\net5.0\DotNet_POO_RPG.deps.json
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\bin\Debug\net5.0\DotNet_POO_RPG.runtimeconfig.json
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\bin\Debug\net5.0\DotNet_POO_RPG.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\bin\Debug\net5.0\DotNet_POO_RPG.dll
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\bin\Debug\net5.0\ref\DotNet_POO_RPG.dll
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\bin\Debug\net5.0\DotNet_POO_RPG.pdb
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\obj\Debug\net5.0\DotNet_POO_RPG.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\obj\Debug\net5.0\DotNet_POO_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\obj\Debug\net5.0\DotNet_POO_RPG.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\obj\Debug\net5.0\DotNet_POO_RPG.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\obj\Debug\net5.0\DotNet_POO_RPG.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\obj\Debug\net5.0\DotNet_POO_RPG.dll
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\obj\Debug\net5.0\ref\DotNet_POO_RPG.dll
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\obj\Debug\net5.0\DotNet_POO_RPG.pdb
+C:\Users\Usuario\source\repos\teste dio\DotNet_POO_RPG\DotNet_POO_RPG\obj\Debug\net5.0\DotNet_POO_RPG.genruntimeconfig.cache
