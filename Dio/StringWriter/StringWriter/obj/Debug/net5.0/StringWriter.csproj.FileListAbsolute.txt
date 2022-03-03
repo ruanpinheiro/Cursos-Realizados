@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\bin\Debug\net5.0\StringWriter.exe
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\bin\Debug\net5.0\StringWriter.deps.json
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\bin\Debug\net5.0\StringWriter.runtimeconfig.json
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\bin\Debug\net5.0\StringWriter.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\bin\Debug\net5.0\StringWriter.dll
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\bin\Debug\net5.0\ref\StringWriter.dll
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\bin\Debug\net5.0\StringWriter.pdb
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.dll
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\obj\Debug\net5.0\ref\StringWriter.dll
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.pdb
+C:\Users\Usuario\source\repos\StringWriter\StringWriter\obj\Debug\net5.0\StringWriter.genruntimeconfig.cache

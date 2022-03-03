@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\bin\Debug\net5.0\LerDiretorios.exe
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\bin\Debug\net5.0\LerDiretorios.deps.json
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\bin\Debug\net5.0\LerDiretorios.runtimeconfig.json
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\bin\Debug\net5.0\LerDiretorios.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\bin\Debug\net5.0\LerDiretorios.dll
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\bin\Debug\net5.0\ref\LerDiretorios.dll
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\bin\Debug\net5.0\LerDiretorios.pdb
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\obj\Debug\net5.0\LerDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\obj\Debug\net5.0\LerDiretorios.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\obj\Debug\net5.0\LerDiretorios.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\obj\Debug\net5.0\LerDiretorios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\obj\Debug\net5.0\LerDiretorios.dll
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\obj\Debug\net5.0\ref\LerDiretorios.dll
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\obj\Debug\net5.0\LerDiretorios.pdb
+C:\Users\Usuario\source\repos\LerDiretorios\LerDiretorios\obj\Debug\net5.0\LerDiretorios.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReader", "StringReader\StringReader.csproj", "{6FF9D093-8947-4B7F-B93A-E890C773C6BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF9D093-8947-4B7F-B93A-E890C773C6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF9D093-8947-4B7F-B93A-E890C773C6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF9D093-8947-4B7F-B93A-E890C773C6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF9D093-8947-4B7F-B93A-E890C773C6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF7BEA7E-2751-4D72-9511-422D924051ED}
+	EndGlobalSection
+EndGlobal

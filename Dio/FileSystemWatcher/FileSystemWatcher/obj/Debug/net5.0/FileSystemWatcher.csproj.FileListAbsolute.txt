@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.exe
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.deps.json
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.runtimeconfig.json
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.dll
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\bin\Debug\net5.0\ref\FileSystemWatcher.dll
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\bin\Debug\net5.0\FileSystemWatcher.pdb
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.dll
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net5.0\ref\FileSystemWatcher.dll
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.pdb
+C:\Users\Usuario\source\repos\FileSystemWatcher\FileSystemWatcher\obj\Debug\net5.0\FileSystemWatcher.genruntimeconfig.cache

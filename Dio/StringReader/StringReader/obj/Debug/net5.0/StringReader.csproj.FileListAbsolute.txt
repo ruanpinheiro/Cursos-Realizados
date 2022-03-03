@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\StringReader\StringReader\bin\Debug\net5.0\StringReader.exe
+C:\Users\Usuario\source\repos\StringReader\StringReader\bin\Debug\net5.0\StringReader.deps.json
+C:\Users\Usuario\source\repos\StringReader\StringReader\bin\Debug\net5.0\StringReader.runtimeconfig.json
+C:\Users\Usuario\source\repos\StringReader\StringReader\bin\Debug\net5.0\StringReader.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\StringReader\StringReader\bin\Debug\net5.0\StringReader.dll
+C:\Users\Usuario\source\repos\StringReader\StringReader\bin\Debug\net5.0\ref\StringReader.dll
+C:\Users\Usuario\source\repos\StringReader\StringReader\bin\Debug\net5.0\StringReader.pdb
+C:\Users\Usuario\source\repos\StringReader\StringReader\obj\Debug\net5.0\StringReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\StringReader\StringReader\obj\Debug\net5.0\StringReader.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\StringReader\StringReader\obj\Debug\net5.0\StringReader.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\StringReader\StringReader\obj\Debug\net5.0\StringReader.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\StringReader\StringReader\obj\Debug\net5.0\StringReader.dll
+C:\Users\Usuario\source\repos\StringReader\StringReader\obj\Debug\net5.0\ref\StringReader.dll
+C:\Users\Usuario\source\repos\StringReader\StringReader\obj\Debug\net5.0\StringReader.pdb
+C:\Users\Usuario\source\repos\StringReader\StringReader\obj\Debug\net5.0\StringReader.genruntimeconfig.cache

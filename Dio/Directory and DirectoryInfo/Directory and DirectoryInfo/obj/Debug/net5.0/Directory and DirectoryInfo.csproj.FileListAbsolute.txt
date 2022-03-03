@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\net5.0\Directory and DirectoryInfo.exe
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\net5.0\Directory and DirectoryInfo.deps.json
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\net5.0\Directory and DirectoryInfo.runtimeconfig.json
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\net5.0\Directory and DirectoryInfo.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\net5.0\Directory and DirectoryInfo.dll
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\net5.0\ref\Directory and DirectoryInfo.dll
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\bin\Debug\net5.0\Directory and DirectoryInfo.pdb
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\net5.0\Directory and DirectoryInfo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\net5.0\Directory and DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\net5.0\Directory and DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\net5.0\Directory and DirectoryInfo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\net5.0\Directory and DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\net5.0\Directory and DirectoryInfo.dll
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\net5.0\ref\Directory and DirectoryInfo.dll
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\net5.0\Directory and DirectoryInfo.pdb
+C:\Users\Usuario\source\repos\Directory and DirectoryInfo\Directory and DirectoryInfo\obj\Debug\net5.0\Directory and DirectoryInfo.genruntimeconfig.cache

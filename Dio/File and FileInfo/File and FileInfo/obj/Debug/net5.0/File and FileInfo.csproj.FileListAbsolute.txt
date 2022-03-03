@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\bin\Debug\net5.0\File and FileInfo.exe
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\bin\Debug\net5.0\File and FileInfo.deps.json
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\bin\Debug\net5.0\File and FileInfo.runtimeconfig.json
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\bin\Debug\net5.0\File and FileInfo.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\bin\Debug\net5.0\File and FileInfo.dll
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\bin\Debug\net5.0\ref\File and FileInfo.dll
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\bin\Debug\net5.0\File and FileInfo.pdb
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\obj\Debug\net5.0\File and FileInfo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\obj\Debug\net5.0\File and FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\obj\Debug\net5.0\File and FileInfo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\obj\Debug\net5.0\File and FileInfo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\obj\Debug\net5.0\File and FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\obj\Debug\net5.0\File and FileInfo.dll
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\obj\Debug\net5.0\ref\File and FileInfo.dll
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\obj\Debug\net5.0\File and FileInfo.pdb
+C:\Users\Usuario\source\repos\File and FileInfo\File and FileInfo\obj\Debug\net5.0\File and FileInfo.genruntimeconfig.cache
