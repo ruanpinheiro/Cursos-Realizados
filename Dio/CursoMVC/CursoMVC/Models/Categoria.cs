@@ -6,8 +6,8 @@ namespace CursoMVC.Models
     {
         public int Id { get; set; }
         public string Descricao { get; set; }
-        [Display(Name = "Descrição")]
-        public List<Produto> Produtos { get; set; }
+      //  [Display(Name = "Descrição")]
+      //  public List<Produto> Produtos { get; set; }
 
     }
 }
