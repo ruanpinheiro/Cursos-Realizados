@@ -1,0 +1,16 @@
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\bin\Debug\net5.0\Exercicio_Dictyonary.exe
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\bin\Debug\net5.0\Exercicio_Dictyonary.deps.json
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\bin\Debug\net5.0\Exercicio_Dictyonary.runtimeconfig.json
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\bin\Debug\net5.0\Exercicio_Dictyonary.runtimeconfig.dev.json
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\bin\Debug\net5.0\Exercicio_Dictyonary.dll
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\bin\Debug\net5.0\Exercicio_Dictyonary.pdb
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\obj\Debug\net5.0\Exercicio_Dictyonary.csproj.AssemblyReference.cache
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\obj\Debug\net5.0\Exercicio_Dictyonary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\obj\Debug\net5.0\Exercicio_Dictyonary.AssemblyInfoInputs.cache
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\obj\Debug\net5.0\Exercicio_Dictyonary.AssemblyInfo.cs
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\obj\Debug\net5.0\Exercicio_Dictyonary.csproj.CoreCompileInputs.cache
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\obj\Debug\net5.0\Exercicio_Dictyonary.dll
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\obj\Debug\net5.0\refint\Exercicio_Dictyonary.dll
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\obj\Debug\net5.0\Exercicio_Dictyonary.pdb
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\obj\Debug\net5.0\Exercicio_Dictyonary.genruntimeconfig.cache
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_Dictyonary\Exercicio_Dictyonary\obj\Debug\net5.0\ref\Exercicio_Dictyonary.dll

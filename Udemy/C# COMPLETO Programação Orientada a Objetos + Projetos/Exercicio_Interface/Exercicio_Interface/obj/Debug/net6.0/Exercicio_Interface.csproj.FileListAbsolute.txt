@@ -1,0 +1,15 @@
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\bin\Debug\net6.0\Exercicio_Interface.exe
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\bin\Debug\net6.0\Exercicio_Interface.deps.json
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\bin\Debug\net6.0\Exercicio_Interface.runtimeconfig.json
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\bin\Debug\net6.0\Exercicio_Interface.dll
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\bin\Debug\net6.0\Exercicio_Interface.pdb
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.csproj.AssemblyReference.cache
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.AssemblyInfoInputs.cache
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.AssemblyInfo.cs
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.csproj.CoreCompileInputs.cache
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.dll
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\obj\Debug\net6.0\refint\Exercicio_Interface.dll
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.pdb
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\obj\Debug\net6.0\Exercicio_Interface.genruntimeconfig.cache
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercise_Exceptions\Exercicio_Interface\Exercicio_Interface\obj\Debug\net6.0\ref\Exercicio_Interface.dll
