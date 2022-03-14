@@ -1,0 +1,16 @@
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\bin\Debug\net5.0\Exercicio_LinqELambda.exe
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\bin\Debug\net5.0\Exercicio_LinqELambda.deps.json
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\bin\Debug\net5.0\Exercicio_LinqELambda.runtimeconfig.json
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\bin\Debug\net5.0\Exercicio_LinqELambda.runtimeconfig.dev.json
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\bin\Debug\net5.0\Exercicio_LinqELambda.dll
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\bin\Debug\net5.0\Exercicio_LinqELambda.pdb
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\obj\Debug\net5.0\Exercicio_LinqELambda.csproj.AssemblyReference.cache
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\obj\Debug\net5.0\Exercicio_LinqELambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\obj\Debug\net5.0\Exercicio_LinqELambda.AssemblyInfoInputs.cache
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\obj\Debug\net5.0\Exercicio_LinqELambda.AssemblyInfo.cs
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\obj\Debug\net5.0\Exercicio_LinqELambda.csproj.CoreCompileInputs.cache
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\obj\Debug\net5.0\Exercicio_LinqELambda.dll
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\obj\Debug\net5.0\refint\Exercicio_LinqELambda.dll
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\obj\Debug\net5.0\Exercicio_LinqELambda.pdb
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\obj\Debug\net5.0\Exercicio_LinqELambda.genruntimeconfig.cache
+D:\Documents\Cursos\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\Exercicio_LinqELambda\Exercicio_LinqELambda\obj\Debug\net5.0\ref\Exercicio_LinqELambda.dll

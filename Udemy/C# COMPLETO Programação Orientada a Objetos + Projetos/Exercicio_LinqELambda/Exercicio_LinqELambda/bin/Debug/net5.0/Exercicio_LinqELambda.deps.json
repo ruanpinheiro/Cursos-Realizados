@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio_LinqELambda/1.0.0": {
+        "runtime": {
+          "Exercicio_LinqELambda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_LinqELambda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
